@@ -1,0 +1,1 @@
+Bu proje ile Covid 19 verilerinin girilmesinden sonra verilerin tabloda ve grafikte anlık olarak gösterilmesini sağlar.Server Client Mimarisi kullanılmıştır. Serveri baslattiktan sonra Covid 19 verilerinin girileceği programa bugunkü korona virüs bilgilerini yazıp gönderdikten sonra istemcilerimiz servera bağlanarak anlık olarak verileri alıp güncelleyebilmesini sağlar.
